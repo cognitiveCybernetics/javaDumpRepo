@@ -12,6 +12,7 @@ public class Java1 {
 	enum Example {ONE,TWO,THREE}
 	
 	public static void main(String[] args) {
+		System.out.println("Hello");
 		
 		Collection coll= new ArrayList();
 		coll.add(Example.THREE);
