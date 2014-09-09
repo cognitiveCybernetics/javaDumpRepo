@@ -24,7 +24,7 @@ public class Java1 {
 		
 		Set set=new HashSet(coll);
 		
-		System.out.println("hello");
+		System.out.println("hello 2222");
 		
 		System.out.println("Java1.main()"+set);
 
