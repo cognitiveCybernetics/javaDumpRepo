@@ -13,7 +13,7 @@ public class Java1 {
 	
 	public static void main(String[] args) {
 		System.out.println("Hello");
-		
+		System.out.println("hello2");
 		Collection coll= new ArrayList();
 		coll.add(Example.THREE);
 		coll.add(Example.THREE);
