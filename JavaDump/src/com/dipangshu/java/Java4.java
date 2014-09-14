@@ -22,6 +22,7 @@ public class Java4 {
 //		 for (Object obj: reverse(list)){ //Can only iterate over an array or an instance of java.lang.Iterable
 //			 System.out.print(obj + ", ");
 //		 }
+		 
 	}
 	
 	public static Iterator reverse(List list){		// we need to change return type as list
