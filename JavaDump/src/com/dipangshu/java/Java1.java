@@ -1,11 +1,10 @@
 package com.dipangshu.java;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collection;
-import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
+import java.util.TreeSet;
 
 public class Java1 {
 
@@ -24,9 +23,12 @@ public class Java1 {
 		
 		Set set=new HashSet(coll);
 		
+		Set set2=new TreeSet(coll);
+		
 		System.out.println("hello 2222");
 		
 		System.out.println("Java1.main()"+set);
+		System.out.println("Java1.main()"+set2);
 
 	}
 

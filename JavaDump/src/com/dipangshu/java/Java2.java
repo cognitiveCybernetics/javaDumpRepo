@@ -13,7 +13,7 @@ public class Java2 {
 				new Boolean(true)
 				};
 		 
-				Arrays.sort(myObjects);
+				Arrays.sort(myObjects);// class cust exception
 				
 				for(int i=0; i<myObjects.length; i++) {
 				System.out.print(myObjects[i].toString());
